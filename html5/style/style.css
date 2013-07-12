@@ -1,0 +1,10 @@
+﻿html,body{
+  position:relative;
+}
+
+#ctx{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+img{display:none;}
